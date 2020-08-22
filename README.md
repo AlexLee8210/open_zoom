@@ -1,4 +1,4 @@
 # open_zoom
-The exe will let you open zoom links lol
+The exe will help you open zoom links lol
 
 To install just extract it and you're good.
